@@ -9,3 +9,5 @@
 ## 参考资料
 
 [动态规划 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/动态规划)
+
+[动态规划 - 百度百科，如果打不开wikipedia的话打开这个](https://baike.baidu.com/item/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92?fromModule=lemma_search-box)
